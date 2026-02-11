@@ -34,3 +34,7 @@ Uruchomienie projektu
 
 1. Otwórz projekt w Visual Studio 2022
 2. Wykonaj migracje:
+   W Package Manager Console 
+Update-Database
+
+
