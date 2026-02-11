@@ -26,9 +26,10 @@ Model danych
 Post
 
 - Id (int)
-- Title (string, wymagane)
-- Content (string, wymagane)
+- Title (string)
+- Content (string)
 - CreatedAt (DateTime)
+
 Uruchomienie projektu
 
 1. Otwórz projekt w Visual Studio 2022
