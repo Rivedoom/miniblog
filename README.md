@@ -1,4 +1,4 @@
-# MiniBlog – ASP.NET Core MVC
+ MiniBlog – ASP.NET Core MVC
 
 Prosty mini-blog wykonany w ASP.NET Core MVC z wykorzystaniem Entity Framework Core.
 
