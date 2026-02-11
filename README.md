@@ -1,8 +1,8 @@
- MiniBlog – ASP.NET Core MVC
+MiniBlog – ASP.NET Core MVC
 
 Prosty mini-blog wykonany w ASP.NET Core MVC z wykorzystaniem Entity Framework Core.
 
-## Opis projektu
+Opis projektu
 
 Aplikacja umożliwia:
 
@@ -14,31 +14,22 @@ Aplikacja umożliwia:
 - Automatyczne tworzenie bazy danych przy użyciu migracji
 
 Projekt został wykonany w architekturze MVC.
-
----
-
-## Technologie
+Technologie
 
 - .NET 8
 - ASP.NET Core MVC
 - Entity Framework Core
 - SQL Server LocalDB
 - Bootstrap
-
----
-
-## Model danych
-
-### Post
+  
+Model danych
+Post
 
 - Id (int)
 - Title (string, wymagane)
 - Content (string, wymagane)
 - CreatedAt (DateTime)
-
----
-
-## Uruchomienie projektu
+Uruchomienie projektu
 
 1. Otwórz projekt w Visual Studio 2022
 2. Wykonaj migracje:
