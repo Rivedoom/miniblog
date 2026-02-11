@@ -1,29 +1,3 @@
-🔥🔥🔥 GRATULACJE — repozytorium jest publiczne i działa!
-
-Widzę:
-
-✅ Repo publiczne
-
-✅ Kod wrzucony
-
-✅ Migracje są
-
-✅ Pliki projektu są
-
-❗ Brakuje tylko README
-
-Zrobimy to teraz w 1 minutę 👇
-
-🟢 KROK — Dodanie README na GitHub
-
-Na screenie masz przycisk:
-
-👉 Add a README
-
-Kliknij go.
-
-W edytorze wklej to 👇
-
 # MiniBlog – ASP.NET Core MVC
 
 Prosty mini-blog wykonany w ASP.NET Core MVC z wykorzystaniem Entity Framework Core.
